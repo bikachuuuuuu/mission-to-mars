@@ -8,7 +8,7 @@
 5. Create an HTML/CSS portfolio to showcase projects.
 6. Use Bootstrap components to polish and customize the portfolio.
 
-##Results
+## Results
 
 ![Pic 1](https://github.com/bikachuuuuuu/mission-to-mars/blob/main/resources/screenshot.png?raw=true)
 
